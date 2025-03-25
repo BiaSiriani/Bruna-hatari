@@ -2,22 +2,23 @@ body{
 
     .a{
     background-color:  #f8b2f1;
-        margin-top:60px ;
+        margin-top:20px ;
     }
     .b{
         background-color: #f8b2f1;
-        margin-top:60px ;
+        margin-top:65px ;
     }
     .c{
         background-color: #f8b2f1;
-        margin-top:60px ;
+        margin-top:70px ;
     }
     .d{
         background-color: #f8b2f1;
-        margin-top:60px ;
+        margin-top:75px ;
     }
     .e{
         background-color: #f8b2f1;
-        margin-top:60px ;
+        margin-top:80px ;
+        border: #f8b2f1
     }
 };
